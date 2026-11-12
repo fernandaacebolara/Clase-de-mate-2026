@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 st.write(''' # Predicción de la calificación del examen  ''')
-st.write('Modelo de regresión lineal para predecir la calificación que obtiene un alumno.')
+st.image("TEC.webp", caption= "Modelo de regresión lineal para predecir la calificación que obtiene un alumno.")
 
 st.header('Datos del alumno')
 
